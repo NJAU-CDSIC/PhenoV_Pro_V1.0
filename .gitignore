@@ -1,0 +1,20 @@
+# Windows
+Thumbs.db
+*.swp
+*~
+
+# Build files
+*.obj
+*.o
+*.exe
+*.dll
+*.pdb
+
+# IDE
+.vs/
+.vscode/
+.idea/
+*.user
+
+# OS
+.DS_Store
