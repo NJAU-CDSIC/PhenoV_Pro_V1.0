@@ -6,7 +6,6 @@ Thumbs.db
 # Build files
 *.obj
 *.o
-*.exe
 *.dll
 *.pdb
 
