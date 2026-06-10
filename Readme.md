@@ -2,8 +2,18 @@
 
 Welcome to PhenoV Pro! Developed based on Qt and OpenCV, PhenoV Pro is a lightweight plant image analysis tool designed to provide cutting-edge image processing solutions and analytical support for plant phenotyping researchers and enthusiasts.
 
+## Project Structure
+
+> 📁 **Key files and folders in this repository:**
+
+- **RawData** — All the raw images used in this study.
+- **SampleImages** — Example result images for each analysis function (seed counting, lesion counting, lesion area measurement, leaf growth estimation, root analysis, etc.), providing a quick preview of the software's capabilities.
+- **User Guide** — [`PhenoV Pro v1-user guide.pdf`](file:///d:/exp/phenoVpro/PhenoV%20Pro%20v1-user%20guide.pdf): Detailed user manual covering installation, operation, and troubleshooting.
+- **Installation File** — [`PhenoV_Pro_Setup_v1.0_x64.exe`](file:///d:/exp/phenoVpro/PhenoV_Pro_Setup_v1.0_x64.exe): The Windows 64-bit installer for PhenoV Pro v1.0.
+
 ## Table of Contents
 
+- [Project Structure](#project-structure)
 - [Important Notes](#important-notes)
 - [System Requirements](#system-requirements)
 - [Dependencies](#dependencies)
